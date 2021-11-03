@@ -114,7 +114,7 @@ export default {
   }
 }
 </script>
-<style lang="scss">
+<style>
 .action-bar {
   width: 100%;
   height: 40px;
