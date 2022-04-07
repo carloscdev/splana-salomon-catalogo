@@ -54,31 +54,21 @@ export default {
     setTimeout(() => {
       this.pages = [
         null,
-        'https://i.postimg.cc/8cWcQBmQ/splana-1.jpg',
-        'https://i.postimg.cc/y6SkZs4Q/splana-2.jpg',
-        'https://i.postimg.cc/BQ9t5kJq/splana-3.jpg',
-        'https://i.postimg.cc/Bv6vQGBC/splana-4.jpg',
-        'https://i.postimg.cc/VLqvKgNX/splana-5.jpg',
-        'https://i.postimg.cc/8C0z7nyg/splana-6.jpg',
-        'https://i.postimg.cc/4xwdg3Vd/splana-7.jpg',
-        'https://i.postimg.cc/rwqm34d3/splana-8.jpg',
-        'https://i.postimg.cc/qR6MyXYh/splana-9.jpg',
-        'https://i.postimg.cc/0jg5fKRt/splana-10.jpg',
-        'https://i.postimg.cc/gjvzBcGG/splana-11.jpg',
+        'https://images.unsplash.com/photo-1624367171718-14026220ee35?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80',
+        'https://i.postimg.cc/YC2crk35/FADED-VIOLINES-1.jpg',
+        'https://i.postimg.cc/9FY5HzGP/FADED-VIOLINES-2.jpg',
+        'https://i.postimg.cc/v87Sckcb/VIOLIN-MI-CORAZON-ENCANTADO-1.jpg',
+        'https://i.postimg.cc/gjKMQXfn/VIOLIN-MI-CORAZON-ENCANTADO-2.jpg',
+        'https://i.postimg.cc/7LgSK8vL/violines-himno-a-la-alegria-1.jpg',
       ]
       this.pagesHiRes = [
         null,
-        'https://i.postimg.cc/8cWcQBmQ/splana-1.jpg',
-        'https://i.postimg.cc/y6SkZs4Q/splana-2.jpg',
-        'https://i.postimg.cc/BQ9t5kJq/splana-3.jpg',
-        'https://i.postimg.cc/Bv6vQGBC/splana-4.jpg',
-        'https://i.postimg.cc/VLqvKgNX/splana-5.jpg',
-        'https://i.postimg.cc/8C0z7nyg/splana-6.jpg',
-        'https://i.postimg.cc/4xwdg3Vd/splana-7.jpg',
-        'https://i.postimg.cc/rwqm34d3/splana-8.jpg',
-        'https://i.postimg.cc/qR6MyXYh/splana-9.jpg',
-        'https://i.postimg.cc/0jg5fKRt/splana-10.jpg',
-        'https://i.postimg.cc/gjvzBcGG/splana-11.jpg',
+        'https://images.unsplash.com/photo-1624367171718-14026220ee35?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80',
+        'https://i.postimg.cc/YC2crk35/FADED-VIOLINES-1.jpg',
+        'https://i.postimg.cc/9FY5HzGP/FADED-VIOLINES-2.jpg',
+        'https://i.postimg.cc/v87Sckcb/VIOLIN-MI-CORAZON-ENCANTADO-1.jpg',
+        'https://i.postimg.cc/gjKMQXfn/VIOLIN-MI-CORAZON-ENCANTADO-2.jpg',
+        'https://i.postimg.cc/7LgSK8vL/violines-himno-a-la-alegria-1.jpg'
       ]
     }, 1)
     window.addEventListener('hashchange', this.setPageFromHash)
