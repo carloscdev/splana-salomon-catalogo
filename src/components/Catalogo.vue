@@ -54,22 +54,16 @@ export default {
     setTimeout(() => {
       this.pages = [
         null,
-        'https://images.unsplash.com/photo-1624367171718-14026220ee35?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80',
-        'https://i.postimg.cc/YC2crk35/FADED-VIOLINES-1.jpg',
-        'https://i.postimg.cc/9FY5HzGP/FADED-VIOLINES-2.jpg',
-        'https://i.postimg.cc/v87Sckcb/VIOLIN-MI-CORAZON-ENCANTADO-1.jpg',
-        'https://i.postimg.cc/gjKMQXfn/VIOLIN-MI-CORAZON-ENCANTADO-2.jpg',
-        'https://i.postimg.cc/7LgSK8vL/violines-himno-a-la-alegria-1.jpg',
+        'https://images.unsplash.com/photo-1551970353-3960cb854a2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80',
+        'https://i.postimg.cc/L8C87nq1/PARA-ELISA-1.jpg',
+        'https://i.postimg.cc/VNJkcmMH/PARA-ELISA-2.jpg',
         'https://i.postimg.cc/R0XBb8NV/TITANIC.jpg'
       ]
       this.pagesHiRes = [
         null,
-        'https://images.unsplash.com/photo-1624367171718-14026220ee35?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80',
-        'https://i.postimg.cc/YC2crk35/FADED-VIOLINES-1.jpg',
-        'https://i.postimg.cc/9FY5HzGP/FADED-VIOLINES-2.jpg',
-        'https://i.postimg.cc/v87Sckcb/VIOLIN-MI-CORAZON-ENCANTADO-1.jpg',
-        'https://i.postimg.cc/gjKMQXfn/VIOLIN-MI-CORAZON-ENCANTADO-2.jpg',
-        'https://i.postimg.cc/7LgSK8vL/violines-himno-a-la-alegria-1.jpg',
+        'https://images.unsplash.com/photo-1551970353-3960cb854a2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80',
+        'https://i.postimg.cc/L8C87nq1/PARA-ELISA-1.jpg',
+        'https://i.postimg.cc/VNJkcmMH/PARA-ELISA-2.jpg',
         'https://i.postimg.cc/R0XBb8NV/TITANIC.jpg'
       ]
     }, 1)
