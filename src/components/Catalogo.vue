@@ -60,6 +60,7 @@ export default {
         'https://i.postimg.cc/v87Sckcb/VIOLIN-MI-CORAZON-ENCANTADO-1.jpg',
         'https://i.postimg.cc/gjKMQXfn/VIOLIN-MI-CORAZON-ENCANTADO-2.jpg',
         'https://i.postimg.cc/7LgSK8vL/violines-himno-a-la-alegria-1.jpg',
+        'https://i.postimg.cc/W4PHs3L9/TITANIC.jpg'
       ]
       this.pagesHiRes = [
         null,
@@ -68,7 +69,8 @@ export default {
         'https://i.postimg.cc/9FY5HzGP/FADED-VIOLINES-2.jpg',
         'https://i.postimg.cc/v87Sckcb/VIOLIN-MI-CORAZON-ENCANTADO-1.jpg',
         'https://i.postimg.cc/gjKMQXfn/VIOLIN-MI-CORAZON-ENCANTADO-2.jpg',
-        'https://i.postimg.cc/7LgSK8vL/violines-himno-a-la-alegria-1.jpg'
+        'https://i.postimg.cc/7LgSK8vL/violines-himno-a-la-alegria-1.jpg',
+        'https://i.postimg.cc/W4PHs3L9/TITANIC.jpg'
       ]
     }, 1)
     window.addEventListener('hashchange', this.setPageFromHash)
